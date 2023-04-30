@@ -12,7 +12,7 @@ N/A
 
 To use this website, open ([Password Generator](https://lexigeller.github.io/Password-Generator-Application/)) in a browser. Click the "Generate Password" button. A box will pop up. Follow the prompts to select password length and what characters you would like included. A random password will be generated for you.
 
-![Screenshot](assets/screenshot1.PNG)
+![Screenshot](Assets/screenshot1.PNG)
 
 ## Credits
 
